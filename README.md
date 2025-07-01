@@ -1,4 +1,4 @@
-<h3 align="center">Stunning GSAP Cocktail Website</h3>
+<h3 align="center">Sitio web de cócteles</h3>
 
 
 ## <a name="table">Tabla de Contenido</a>
