@@ -43,10 +43,6 @@ const Menu = () => {
 	 <img src="/images/slider-left-leaf.png" alt="left-leaf" id="m-left-leaf" />
 	 <img src="/images/slider-right-leaf.png" alt="right-leaf" id="m-right-leaf" />
 	 
-	 <h2 id="menu-heading" className="sr-only">
-		Menú de cócteles
-	 </h2>
-	 
 	 <nav className="cocktail-tabs" aria-label="Cocktail Navigation">
 		{allCocktails.map((cocktail, index) => {
 		 const isActive = index === currentIndex;
@@ -83,7 +79,6 @@ const Menu = () => {
 		
 		<div className="recipe">
 		 <div ref={contentRef} className="info">
-			<p>Receta para:</p>
 			<p id="title">{currentCocktail.name}</p>
 		 </div>
 		 

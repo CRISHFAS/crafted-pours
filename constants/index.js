@@ -159,7 +159,7 @@ const allCocktails = [
 	image: "/images/drink3.png",
 	title: "Ingredientes sencillos, sabor intenso",
 	description:
-	 "Un cóctel clásico y vibrante que combina la fuerza del tequila con la frescura del jugo de lima y un toque dulce de licor de naranja. Su sello característico es el borde salado del vaso, que realza los sabores y equilibra la acidez. Agitada, congelada o servida “on the rocks”, es refrescante, cítrica y perfecta para noches cálidas o celebraciones espontáneas. Su sencillez es su poder: pocos ingredientes, mucho carácter.",
+	 "Un cóctel clásico y vibrante que combina la fuerza del tequila con la frescura del jugo de lima y un toque dulce de licor de naranja. Su sello característico es el borde salado del vaso, que realza los sabores y equilibra la acidez. Agitada, congelada o servida “on the rocks”, es refrescante, cítrica y perfecta para noches cálidas o celebraciones espontáneas.",
  },
  {
 	id: 4,
